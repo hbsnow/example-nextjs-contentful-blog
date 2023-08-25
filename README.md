@@ -1,1 +1,1 @@
-# example-nextjs-contentful-blog
+# Example Next.js Contentful Blog
